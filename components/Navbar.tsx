@@ -52,31 +52,73 @@ const Navbar = () => {
             >
               Home
             </Link>
-            <a className="font-poppins font-[400] text-[15px] py-3 hover:bg-[#F0F7FF] cursor-pointer text-center">
+            <Link
+              href="./pages/aboutUs"
+              className="font-poppins font-[400] text-[15px] py-3 hover:bg-[#F0F7FF] cursor-pointer text-center"
+            >
               Our Story
-            </a>
-            <a className="font-poppins font-[400] text-[15px] py-3 hover:bg-[#F0F7FF] cursor-pointer text-center">
+            </Link>
+            <Link
+              href="/pages/our-recipes"
+              className="font-poppins font-[400] text-[15px] py-3 hover:bg-[#F0F7FF] cursor-pointer text-center"
+            >
               Our Recipes
-            </a>
-            <a className="font-poppins font-[400] text-[15px] py-3 hover:bg-[#F0F7FF] cursor-pointer text-center">
+            </Link>
+            <Link
+              href="/pages/blogs"
+              className="font-poppins font-[400] text-[15px] py-3 hover:bg-[#F0F7FF] cursor-pointer text-center"
+            >
               Blogs
-            </a>
-            <a className="font-poppins font-[400] text-[15px] py-3 hover:bg-[#F0F7FF] cursor-pointer text-center">
+            </Link>
+            <Link
+              href="/pages/our-grains"
+              className="font-poppins font-[400] text-[15px] py-3 hover:bg-[#F0F7FF] cursor-pointer text-center"
+            >
               Our Grains
-            </a>
-            <a className="font-poppins font-[400] text-[15px] py-3 hover:bg-[#F0F7FF] cursor-pointer text-center">
+            </Link>
+            <Link
+              href="/pages/contactUs"
+              className="font-poppins font-[400] text-[15px] py-3 hover:bg-[#F0F7FF] cursor-pointer text-center"
+            >
               Contact Us
-            </a>
+            </Link>
           </div>
         )}
 
         <div className="flex gap-5 max-md:hidden md:max-lg:gap-3">
-          <a className="font-poppins font-[400] text-[15px]">Home</a>
-          <a className="font-poppins font-[400] text-[15px]">Our Story</a>
-          <a className="font-poppins font-[400] text-[15px]">Our Recipes</a>
-          <a className="font-poppins font-[400] text-[15px]">Blogs</a>
-          <a className="font-poppins font-[400] text-[15px]">Our Grains</a>
-          <a className="font-poppins font-[400] text-[15px]">Contact Us</a>
+          <Link href="/" className="font-poppins font-[400] text-[15px]">
+            Home
+          </Link>
+          <Link
+            href="/pages/aboutUs"
+            className="font-poppins font-[400] text-[15px]"
+          >
+            Our Story
+          </Link>
+          <Link
+            href="/pages/our-recipes"
+            className="font-poppins font-[400] text-[15px]"
+          >
+            Our Recipes
+          </Link>
+          <Link
+            href="/pages/blogs"
+            className="font-poppins font-[400] text-[15px]"
+          >
+            Blogs
+          </Link>
+          <Link
+            href="/pages/our-grains"
+            className="font-poppins font-[400] text-[15px]"
+          >
+            Our Grains
+          </Link>
+          <Link
+            href="/pages/contactUs"
+            className="font-poppins font-[400] text-[15px]"
+          >
+            Contact Us
+          </Link>
           <div className="ml-4 md:max-lg:ml-0">
             <svg
               width="25px"
