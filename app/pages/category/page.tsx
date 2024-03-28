@@ -53,7 +53,7 @@ const Page = () => {
                 className="w-4 h-4 text-blue-600 bg-white border-gray-300 rounded accent-[#FF7119]"
               />
               <label
-                for="default-checkbox"
+                htmlFor="default-checkbox"
                 className="ms-2 text-[15px] font-[400] text-black font-poppins"
               >
                 6 Months +
@@ -67,7 +67,7 @@ const Page = () => {
                 className="w-4 h-4 text-blue-600 bg-white border-gray-300 rounded accent-[#FF7119]"
               />
               <label
-                for="default-checkbox"
+                htmlFor="default-checkbox"
                 className="ms-2 text-[15px] font-[400] text-black font-poppins"
               >
                 7 Months +
@@ -81,7 +81,7 @@ const Page = () => {
                 className="w-4 h-4 text-blue-600 bg-white border-gray-300 rounded accent-[#FF7119]"
               />
               <label
-                for="default-checkbox"
+                htmlFor="default-checkbox"
                 className="ms-2 text-[15px] font-[400] text-black font-poppins"
               >
                 8 Months +
@@ -95,7 +95,7 @@ const Page = () => {
                 className="w-4 h-4 text-blue-600 bg-white border-gray-300 rounded accent-[#FF7119]"
               />
               <label
-                for="default-checkbox"
+                htmlFor="default-checkbox"
                 className="ms-2 text-[15px] font-[400] text-black font-poppins"
               >
                 9 Months +
@@ -109,7 +109,7 @@ const Page = () => {
                 className="w-4 h-4 text-blue-600 bg-white border-gray-300 rounded accent-[#FF7119]"
               />
               <label
-                for="default-checkbox"
+                htmlFor="default-checkbox"
                 className="ms-2 text-[15px] font-[400] text-black font-poppins"
               >
                 11 Months +
@@ -128,7 +128,7 @@ const Page = () => {
                 className="w-4 h-4 text-blue-600 bg-white border-gray-300 rounded accent-[#FF7119]"
               />
               <label
-                for="default-checkbox"
+                htmlFor="default-checkbox"
                 className="ms-2 text-[15px] font-[400] text-black font-poppins"
               >
                 Khichdi Mix
@@ -142,7 +142,7 @@ const Page = () => {
                 className="w-4 h-4 text-blue-600 bg-white border-gray-300 rounded accent-[#FF7119]"
               />
               <label
-                for="default-checkbox"
+                htmlFor="default-checkbox"
                 className="ms-2 text-[15px] font-[400] text-black font-poppins"
               >
                 Ragi Mix
@@ -156,7 +156,7 @@ const Page = () => {
                 className="w-4 h-4 text-blue-600 bg-white border-gray-300 rounded accent-[#FF7119]"
               />
               <label
-                for="default-checkbox"
+                htmlFor="default-checkbox"
                 className="ms-2 text-[15px] font-[400] text-black font-poppins"
               >
                 Cereal Mix
@@ -170,7 +170,7 @@ const Page = () => {
                 className="w-4 h-4 text-blue-600 bg-white border-gray-300 rounded accent-[#FF7119]"
               />
               <label
-                for="default-checkbox"
+                htmlFor="default-checkbox"
                 className="ms-2 text-[15px] font-[400] text-black font-poppins"
               >
                 Sattu Mix
@@ -184,7 +184,7 @@ const Page = () => {
                 className="w-4 h-4 text-blue-600 bg-white border-gray-300 rounded accent-[#FF7119]"
               />
               <label
-                for="default-checkbox"
+                htmlFor="default-checkbox"
                 className="ms-2 text-[15px] font-[400] text-black font-poppins"
               >
                 Pluses Mix
